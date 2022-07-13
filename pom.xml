@@ -38,7 +38,7 @@
 		<jsch.version>0.1.54</jsch.version>
 		<imaging.version>2.81.51407</imaging.version>
 		<mail.version>1.4.7</mail.version>
-		<activemq.version>5.1.0</activemq.version>
+		<activemq.version>5.6.0</activemq.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
